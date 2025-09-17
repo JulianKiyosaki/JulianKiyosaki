@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TFLite"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </p>
-<a href="[https://github.com/JulianKiyosaki/NutriSee](https://github.com/JulianKiyosaki/NutriSeeApp.git)"><strong>Lihat Repositori &rarr;</strong></a>
+<a href="https://github.com/JulianKiyosaki/NutriSeeApp"><strong>Lihat Repositori &rarr;</strong></a>
 
 <br/>
 
